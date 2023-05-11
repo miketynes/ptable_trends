@@ -1,0 +1,1 @@
+from .ptable_trends import ptable_plotter
