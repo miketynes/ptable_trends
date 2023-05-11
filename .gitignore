@@ -1,6 +1,7 @@
-
 ptable_trends\.html
-
 \.ipynb_checkpoints/
-
 *.ipynb
+**/__pycache__/*
+*.idea
+build/
+ptable_trends.egg-info/
